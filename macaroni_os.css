@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "SF_Mono_Light";
+    src: url("mats/SFMono-Light.ttf");
+}
+html {
+    height: 100vh;
+}
+body {
+    height: 100%;
+    font-family: "SF_Mono_Light";
+    background-image: url("https://dynamicwallpaper.club/landing-vids/1.png");
+}
